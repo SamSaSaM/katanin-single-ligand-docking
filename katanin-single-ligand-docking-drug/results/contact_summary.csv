@@ -1,0 +1,15 @@
+residue,chain,residue_number,distance_A,receptor_atom,receptor_element,ligand_atom,ligand_element
+ALA,A,212,3.25,O,O,O,O
+THR,A,253,3.31,O,O,O,O
+ILE,A,393,3.34,CG2,C,C,C
+LEU,A,257,3.39,CD2,C,C,C
+LEU,A,390,3.47,CD1,C,C,C
+ALA,A,419,3.54,CB,C,N,N
+THR,A,422,3.55,CB,C,O,O
+GLY,A,418,3.56,CA,C,C,C
+PRO,A,382,3.59,CB,C,C,C
+GLY,A,254,3.64,N,N,C,C
+ASP,A,210,3.67,CB,C,C,C
+SER,A,394,3.70,CB,C,C,C
+ASP,A,213,3.70,CB,C,C,C
+ASN,A,423,3.90,OD1,O,O,O

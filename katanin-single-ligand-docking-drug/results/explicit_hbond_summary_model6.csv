@@ -1,0 +1,4 @@
+model,vina_score_kcal_mol,direction,donor,hydrogen,acceptor,H_acceptor_A,donor_acceptor_A,D_H_A_angle_deg
+6,-6.569,protein_to_ligand,LEU257_N,H,ligand_O9,1.71,2.73,167.4
+6,-6.569,ligand_to_protein,ligand_N10,H11,THR256_OG1,2.26,3.12,142.0
+6,-6.569,ligand_to_protein,ligand_N14,H15,ASP308_OD1,2.25,3.13,144.6
